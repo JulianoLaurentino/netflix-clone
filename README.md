@@ -1,2 +1,2 @@
 # netflix-clone
-Recriando a tela inicial da Netflix
+Recriando a tela do Netflix com HTML, CSS e Javascript
